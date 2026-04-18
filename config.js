@@ -36,8 +36,7 @@ const CONFIG = {
   wedding: {
     date: "2026-08-09",
     time: "11:00",
-    venue: "W스퀘어웨딩홀 ",
-    hall: "더 가든홀 3층",
+    venue: "W스퀘어웨딩홀 \n 더 가든홀 3층",
     address: "부산시 부산진구 신천대로 252 일성인포아파트 주상복합상가 3층",
     mapLinks: {
       kakao: "https://place.map.kakao.com/1143897257",
